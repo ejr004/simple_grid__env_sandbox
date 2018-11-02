@@ -1,0 +1,6 @@
+mod 'puppetlabs-docker', '2.0.0'
+mod 'puppetlabs-git', '0.5.0'
+mod 'puppetlabs-stdlib', '5.0.0'
+mod 'puppetlabs-vcsrepo', '2.4.0'
+mod 'puppet-python', '2.1.1'
+mod 'stahnma-epel', '1.3.1'
